@@ -11,4 +11,11 @@ Welcome to my GitHub repository documenting the tasks and projects I completed d
 
 It features a navigation bar, a main content section with a search form, and a dynamic image display. The design is modern and clean, utilizing CSS Grid for layout and media queries for mobile responsiveness.
 
-### Task 2: TO-DO List
+### Task 2: TO-DO List Application
+
+This project helped me enhance my skills in HTML, CSS, and JavaScript, and implement essential features such as:
+✔Adding new tasks 
+✔Marking tasks as complete/incomplete 
+✔Filtering tasks by their status 
+✔Deleting individual tasks and clearing all tasks 
+✔Persistent storage using local Storage
